@@ -23,12 +23,7 @@ This project showcases game loop logic, basic collision detection, paddle/ball m
 
 > You can change keys in `main.cpp`.
 
-## 🔧 Configuration
-Tweak gameplay in `game.hpp`:
-```cpp
-inline constexpr int   WINDOW_W      = 900;
-inline constexpr int   WINDOW_H      = 600;
-
+---
 
 ## 🧪 How It Works (quick overview)
 - **Game loop:** process input → update world (positions, collisions, scoring) → render
@@ -55,4 +50,5 @@ inline constexpr int   WINDOW_H      = 600;
 
 ## 🙌 Acknowledgements
 Inspired by the original **Pong** (Atari, 1972). Thanks to SFML for a simple C++ multimedia API.
+
 
