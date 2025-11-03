@@ -1,7 +1,8 @@
 # 🏓 Ping Pong Game
 
-A simple Ping Pong style game built in C++.  
+A simple two-player Pong style game built in C++.  
 This project showcases game loop logic, basic collision detection, paddle/ball movement, and score tracking.
+
 ---
 
 ## ✨ Features
@@ -54,3 +55,4 @@ inline constexpr int   WINDOW_H      = 600;
 
 ## 🙌 Acknowledgements
 Inspired by the original **Pong** (Atari, 1972). Thanks to SFML for a simple C++ multimedia API.
+
