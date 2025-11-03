@@ -34,14 +34,9 @@ This project showcases game loop logic, basic collision detection, paddle/ball m
 ---
 
 ## 📸 Screenshot 
-```
-<p align="center">
-  <img src="Screenshot%202025-11-03%20001919.png" width="600" alt="Ping Pong Game Screenshot 1">
-</p>
 
-<p align="center">
-  <img src="Screenshot%202025-11-03%20001938.png" width="600" alt="Ping Pong Game Screenshot 2">
-</p>
+![Screenshot 1](Screenshot%202025-11-03%20001919.png)
+![Screenshot 2](Screenshot%202025-11-03%20001938.png)
 
 ---
 
@@ -55,6 +50,7 @@ This project showcases game loop logic, basic collision detection, paddle/ball m
 
 ## 🙌 Acknowledgements
 Inspired by the original **Pong** (Atari, 1972). Thanks to SFML for a simple C++ multimedia API.
+
 
 
 
