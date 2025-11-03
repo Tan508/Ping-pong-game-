@@ -47,10 +47,3 @@ This project showcases game loop logic, basic collision detection, paddle/ball m
 - [ ] Gamepad support
 - [ ] Settings menu + persistent config
 
-
-## 🙌 Acknowledgements
-Inspired by the original **Pong** (Atari, 1972). Thanks to SFML for a simple C++ multimedia API.
-
-
-
-
